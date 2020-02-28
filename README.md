@@ -8,3 +8,5 @@ Using the two algorithms, The Decision Tree Algorith and Ensemble model, it can 
 
 XGBoost is a scalable and accurate implementation of gradient boosting machines and it has proven to push thelimits of computing power for boosted trees algorithms 
 
+
+![2](https://user-images.githubusercontent.com/60280080/75514998-e9da0e80-59c6-11ea-9bc4-cd07d50eb0dd.png)
