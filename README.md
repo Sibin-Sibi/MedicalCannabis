@@ -7,6 +7,5 @@ Scope of Our Cannabis Project is to develop a classification model that could cl
 Using the two algorithms, The Decision Tree Algorith and Ensemble model, it can be seen that XGBoost classification model from Ensemble learning  does the best classification with a precision of 74%.
 
 XGBoost is a scalable and accurate implementation of gradient boosting machines and it has proven to push thelimits of computing power for boosted trees algorithms 
+![1](https://user-images.githubusercontent.com/60280080/75515058-0fffae80-59c7-11ea-9327-faaba3184f47.png)
 
-
-![2](https://user-images.githubusercontent.com/60280080/75514998-e9da0e80-59c6-11ea-9bc4-cd07d50eb0dd.png)
